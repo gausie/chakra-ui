@@ -1,5 +1,17 @@
 # Change Log
 
+## 2.0.7
+
+### Patch Changes
+
+- [#6178](https://github.com/chakra-ui/chakra-ui/pull/6178)
+  [`592360188`](https://github.com/chakra-ui/chakra-ui/commit/592360188eb080d957ef67457c908f992da210ae)
+  Thanks [@TylerAPfledderer](https://github.com/TylerAPfledderer)! - extend doc
+  for `fadeDuration` prop
+
+- Updated dependencies []:
+  - @chakra-ui/system@2.1.4
+
 ## 2.0.6
 
 ### Patch Changes
